@@ -13,7 +13,7 @@
 - Languages: Java, Python, JavaScript, HTML/CSS
 - Tools: Git, Unix Shell, Eclipse, VSCode, IntelliJ, PyCharm, Atom
 - Frameworks: React, Node.js, Flask, PyTorch
-- Math: Linear Algebra, Multivariable Calculus, Statistics
+- Math: Linear Algebra, Multivariable Calculus, Probability & Statistics
 
 ### 🌱 Currently Learning:
 
